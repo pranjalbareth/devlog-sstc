@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Developers Log - SSTC
+    title: Developers Log : SSTC
     subtitle: 'Official Technical Bog of SSTC, powered by Developers Community'
     actions:
       - label: Explore
@@ -23,9 +23,9 @@ sections:
     features:
       - title: Python Summer Program 2020
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Developers Community is here, with the all New Python Summer Project 2020
+          first time in our Campus. So, it's all to get ready. Calling out all
+          Pythonistas & Begginers to Join us this Summer.
         align: left
         image: images/feature.svg
         image_position: right

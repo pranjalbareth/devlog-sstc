@@ -1,4 +1,3 @@
 [build]
-publish = [build]
 publish = "devlog-sstc/public/"
 command = "./stackbit-build.sh"

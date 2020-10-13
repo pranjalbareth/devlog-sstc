@@ -1,7 +1,9 @@
 # Developers Community Blog Prototype v1.1 [Dark]
+# [Discontinued] 
+
+Latest Version : [DevLogs SSTC](https://devlogs.pythonanywhere.com/)
 
 A Technical Blog of SSTC powered by Developers Community .
-.
 
 # Developing Site Locally
 
